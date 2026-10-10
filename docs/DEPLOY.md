@@ -2,6 +2,8 @@
 
 ChemCompass is a **static React app** plus a **long-running FastAPI** service with a ~7 MB SQLite corpus. For faster generation in the cloud, use **Gemini** (or OpenAI), not Ollama on small containers.
 
+For a persistent **dev VM** (clone, test, proxies), see [Sprites setup](./SPRITES.md) ([fly.io/sprites](https://fly.io/sprites/)).
+
 ## Architecture
 
 | Component | Host | Notes |

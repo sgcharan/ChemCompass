@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "cloudflare": {
+      "url": "https://mcp.cloudflare.com/mcp"
+    },
+    "sprites": {
+      "url": "https://sprites.dev/mcp"
+    }
+  }
+}
