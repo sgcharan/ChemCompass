@@ -1,0 +1,6 @@
+{
+  "papers": 166,
+  "questions_jsonl": 123,
+  "db": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\data\\pyq-corpus\\corpus.sqlite",
+  "quality_report": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\data\\pyq-corpus\\reports\\quality.csv"
+}

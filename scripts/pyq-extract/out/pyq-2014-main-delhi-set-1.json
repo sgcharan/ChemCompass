@@ -1,0 +1,645 @@
+{
+  "id": "pyq-2014-main-delhi-set-1",
+  "source": {
+    "year": 2014,
+    "exam": "main",
+    "region": "delhi",
+    "set": 1,
+    "pdfPath": "C:\\Users\\sgcha\\OneDrive\\Documents\\ChemCompass\\CBSE\\PYQs\\Chemistry\\chemistry-2014-main-exams-delhi-set-1.pdf"
+  },
+  "rubric": {
+    "1-8": 1,
+    "9-18": 2,
+    "19-27": 3,
+    "28-30": 5
+  },
+  "questions": [
+    {
+      "number": 1,
+      "marks": 1,
+      "text": "Give one example each of 'oil in water' and 'water in oil' emulsion.",
+      "textRaw": "Give one example each of 'oil in water' and 'water in oil' emulsion.",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q1_fig1.png",
+          "pageIndex": 1,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "Oil in water : milk / vanishing cream (any one)\nWater in oil : butter / cold cream (any one)",
+      "orAnswer": null,
+      "answerMarks": [
+        0.5,
+        0.5
+      ],
+      "flags": []
+    },
+    {
+      "number": 2,
+      "marks": 1,
+      "text": "Which reducing agent is employed to get copper from the leached low grade copper\nore ?",
+      "textRaw": "Which reducing agent is employed to get copper from the leached low grade copper\nore ?",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q2_fig1.png",
+          "pageIndex": 1,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "Hydrogen / Iron\n3 : because (en) is a chelating ligand / bidentate ligand ½, ½ [Co(en)3]3+\n4 3-hydroxybutanoic acid / 3-hydroxybutan-1-oic acid",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0
+      ],
+      "flags": [
+        "marks_mismatch"
+      ]
+    },
+    {
+      "number": 3,
+      "marks": 1,
+      "text": "Which of the following is more stable complex and why ?\n[Co(NH)6]3+ and [Co(en)r]3+",
+      "textRaw": "Which of the following is more stable complex and why ?\n[Co(NH)6]3+ and [Co(en)r]3+",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q3_fig1.png",
+          "pageIndex": 1,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "",
+      "orAnswer": null,
+      "answerMarks": [],
+      "flags": [
+        "missing_answer"
+      ]
+    },
+    {
+      "number": 4,
+      "marks": 1,
+      "text": "Write the IUPAC name of the compound.\nCH-cH-CH-COOH",
+      "textRaw": "Write the IUPAC name of the compound.\ncHr-cH-cHr-COOH",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q4_fig1.png",
+          "pageIndex": 1,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "",
+      "orAnswer": null,
+      "answerMarks": [],
+      "flags": [
+        "missing_answer"
+      ]
+    },
+    {
+      "number": 5,
+      "marks": 1,
+      "text": "Which of the following isomers is more volatile :\no-nitrophenol or p-nitrophenol ?",
+      "textRaw": "Which of the following isomers is more volatile :\no-nitrophenol or p-nitrophenol ?",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q5_fig1.png",
+          "pageIndex": 1,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "12 x 1000\nw2= 1.8g",
+      "orAnswer": null,
+      "answerMarks": [
+        0.5,
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 6,
+      "marks": 1,
+      "text": "What are isotonic solutions ?",
+      "textRaw": "What are isotonic solutions ?",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q6_fig1.png",
+          "pageIndex": 1,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "022x1023 x(4x10-8)3",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 7,
+      "marks": 1,
+      "text": "Arrange the following compounds in increasing order of solubility in water :\nC6H5NH2, (C2H5)2NH, C2H5NH2",
+      "textRaw": "Arrange the following compounds in increasing order of solubility in water :\nc6HsNH2, (C2H,2NH, C2H5NH2",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q7_fig1.png",
+          "pageIndex": 2,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "C6H5NH2<(C2H5)2 NH< C2H5NH2",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 8,
+      "marks": 1,
+      "text": "Which of the two components of starch is water soluble ?",
+      "textRaw": "Which of the two components of starch is water soluble ?",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q8_fig1.png",
+          "pageIndex": 2,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "Amylose",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 9,
+      "marks": 2,
+      "text": "An element with density tl.2 g/cm3 forms a f.c.c. lattice with edge length of 4 x 10-8 cm.\nCalculate the atomic mass of the element.\n(Given : No = 6.022x 1023 mol-1)",
+      "textRaw": "An element with density tl.2 gcm-3 forms a f.c.c. lattice with edge length of 4 x 10-8 cm.\nCalculate the atomic mass of the element.\n(Given : No = 6.022x 1023 mol-l)",
+      "orText": null,
+      "figures": [],
+      "answer": "d=11.2 g/cm3\nz=4\na=4x10-8 cm\nZ x M\nd=\nNax a3",
+      "orAnswer": null,
+      "answerMarks": [
+        0.5
+      ],
+      "flags": [
+        "marks_mismatch"
+      ]
+    },
+    {
+      "number": 10,
+      "marks": 2,
+      "text": "Examine the given defective crystal\nB-OB-A+B_\nA+B-A+0A+\nAnswer the following questions :\n(i) What type of stoichiometric defect is shown by the crystal ?\n(ii) How is the density of the crystal affected by this defect ?\n(iii) What type of ionic substances show such defect ?\n3",
+      "textRaw": "Examine the given defective crystal\nB-OB-A+B_\nA+B-A+0A+\nAnswer the following questions :\n(i) What type of stoichiometric defect is shown by the crystal ?\n(ii) How is the density of the crystal affected by this defect ?\n(iii) What type of ionic substances show such defect ?\n3",
+      "orText": null,
+      "figures": [],
+      "answer": "(i) Schottky defect\n(ii) Decreases\n(iii Alkali metal halides/ Ionic substances having almost similar size of cations and anions\n(NaCl/KCl )",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        0.5,
+        0.5
+      ],
+      "flags": []
+    },
+    {
+      "number": 11,
+      "marks": 2,
+      "text": "Calculate the mass of compound (molar mass = 256 gmol-1) to be dissolved in 75 gof\nbenzene to lower its freezing point by 0.48 K (& = 5.tZ K kg mol-1).",
+      "textRaw": "Calculate the mass of compound (molar mass = 256 gmol-l) to be dissolved in 75 gof\nbenzene to lower its freezing point by 0.48 K (& = 5.tZ K kg mol-l).",
+      "orText": null,
+      "figures": [],
+      "answer": "Kf ½ ∆Tf = x w2\nx 1000\nw1 x M2",
+      "orAnswer": null,
+      "answerMarks": [],
+      "flags": []
+    },
+    {
+      "number": 12,
+      "marks": 2,
+      "text": "Define an ideal solution and write one of its characteristics.",
+      "textRaw": "Define an ideal solution and write one of its characteristics.",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q12_fig1.png",
+          "pageIndex": 3,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "Solutions which obey Raoult’s law over the entire range of concentration\nA-A or B-B ~A-B interactions\n∆ Hmix =\n∆ Vmix =\n(any one)",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 13,
+      "marks": 2,
+      "text": "Write two differences between 'order of reaction' and 'molecularity of reaction'.",
+      "textRaw": "Write two differences between 'order of reaction' and 'molecularity of reaction'.",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q13_fig1.png",
+          "pageIndex": 3,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "(i) Order of reaction is meant for elementary as well as for complex reactions but molecularity is\nfor elementary reactions.\n(ii) Order can be zero or fraction but molecularity cannot be zero or fraction.\n(or any other difference)",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 14,
+      "marks": 2,
+      "text": "Outline the principles behind the refining of metals by the following methods :\n(i) Zone refining method\n(ii) CHomatographicmethod",
+      "textRaw": "Outline the principles behind the refining of metals by the following methods :\n(i) Zone refining method\n(ii) Chromatographicmethod",
+      "orText": null,
+      "figures": [],
+      "answer": "(i) Impurities are more soluble in melt than in solid state of the metal.\n(ii) Different components of a mixture are differently adsorbed on an adsorbent",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 15,
+      "marks": 2,
+      "text": "Complete the following chemical equations :\nArrange the following in the order of property indicated against each set :\n(i) HF, HCr, HBr, HI - increasing bond dissociation enthalpy.\n(ii) H2O, H2S, HrSe, HrTe - increasing acidic character.",
+      "textRaw": "Complete the following chemical equations :\nArrange the following in the order of property indicated against each set :\n(i) HF, HCr, HBr, HI - increasing bond dissociation enthalpy.\n(ii) H2O, H2S, HrSe, HrTe - increasing acidic character.",
+      "orText": null,
+      "figures": [],
+      "answer": "(i) HI < HBr < HCl < HF\n(ii) H2O< H2S < H2Se< H2Te",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 16,
+      "marks": 2,
+      "text": "3)4ct2i+\nWrite the IUPAC name of the complex What type of isomerism does\n[Cr(NH)aCl21+.\nit exhibit\nnn t tka\ngr qir t t",
+      "textRaw": "3)4ct2i+\nWrite the IUPAC name of the complex What type of isomerism does\n[Cr(NH)aCl21+.\nit exhibit\nnn t tka\ngr qir t t",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q16_fig1.png",
+          "pageIndex": 3,
+          "note": "cropped region (low text layer)"
+        },
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q16_fig2.png",
+          "pageIndex": 4,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "(i) TetraamminedichloridoCHomium (III) ion\n(ii) Geometrical isomerism / cis – trans",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 17,
+      "marks": 2,
+      "text": "Which alkyl halide from the following pair is chiral and undergoes faster SN2\nreaction ?\nnA \\n\n(ii) Out of SN1 and SN2, which reaction occurs with\n(a) Inversionofconfiguration\n(b) Racemisation",
+      "textRaw": "Which alkyl halide from the following pair is chiral and undergoes faster S*2\nreaction ?\nnA \\n\n(ii) Out of S*1 and S*2, which reaction occurs with\n(a) Inversionofconfiguration\n(b) Racemisation",
+      "orText": null,
+      "figures": [],
+      "answer": "(i) (b) is chiral OR\n(a) undergoes faster SN2\n(ii) (a) SN2\n(b) SN1",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        0.5,
+        0.5
+      ],
+      "flags": []
+    },
+    {
+      "number": 18,
+      "marks": 2,
+      "text": "Draw the structure of major monohalo product in each of the following reactions :\n(i) O-ou\ns9c4 '\n(ii) GcHz\nPeroxide'",
+      "textRaw": "Draw the structure of major monohalo product in each of the following reactions :\n(i) O-ou\ns9c4 '\n(ii) GcHz\nPeroxide'",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q18_fig1.png",
+          "pageIndex": 4,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "(i)\nCl\n(ii) CH2 – CH2 – CH2 Br\n19 𝑥 1 (a) = Kp or log (x/m)= log K + 1/n log p\n1 ⁄ n\n𝑚\n(b) Reversible in nature/ stable sol/ solvent loving (or any other)\n(c) Associated colloid – Soap/ micelles;Multimolecular colloid - S8/ gold sol. (or any other)",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.5
+      ],
+      "flags": [
+        "marks_mismatch"
+      ]
+    },
+    {
+      "number": 19,
+      "marks": 3,
+      "text": "(a)\nIn\nto write the\nreference Freundlich adsorption isotherm expression for\nadsorption of gases on solids in the form of an equation.\nWrite important characteristic of lyophilic sols.\nan\n(c)\nof of give\nBased on type particles dispersed phase, one example each of\nassociated colloid and multimolecular colloid.\nS6lUt s\ntp.T.O.\n(a) qfrH",
+      "textRaw": "(a)\nIn\nto write the\nreference Freundlich adsorption isotherm expression for\nadsorption of gases on solids in the form of an equation.\nWrite important characteristic of lyophilic sols.\nan\n(c)\nof of give\nBased on type particles dispersed phase, one example each of\nassociated colloid and multimolecular colloid.\nS6lUt s\ntp.T.O.\n(a) qfrH",
+      "orText": null,
+      "figures": [],
+      "answer": "",
+      "orAnswer": null,
+      "answerMarks": [],
+      "flags": [
+        "missing_answer"
+      ]
+    },
+    {
+      "number": 20,
+      "marks": 3,
+      "text": "Draw the structures of the following molecules :\n(i) XeOFo\n(ii) H2so4\n(b) Write the structural difference between white phosphorus and red phosphorus.",
+      "textRaw": "Draw the structures of the following molecules :\n(i) XeOFo\n(ii) H2so4\n(b) Write the structural difference between white phosphorus and red phosphorus.",
+      "orText": null,
+      "figures": [],
+      "answer": "a) (i) (ii)\nb) White phosphorus Red phosphorus\nIt exists as discrete tetrahedral P4unit It exists in the form of polymeric chain.\nOR correct structures.",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0,
+        2.0,
+        1.0
+      ],
+      "flags": [
+        "marks_mismatch"
+      ]
+    },
+    {
+      "number": 21,
+      "marks": 3,
+      "text": "Account for the following :\n(i) PC/, is more covalent than PC/r.\n(ii) Iron on reaction with HC/ forms FeClrand not FeC/r.\n(iii) The two O-O bond lengths in the ozone molecule are equal.",
+      "textRaw": "Account for the following :\n(i) PC/, is more covalent than PC/r.\n(ii) Iron on reaction with HC/ forms FeClrand not FeC/r.\n(iii) The two O-O bond lengths in the ozone molecule are equal.",
+      "orText": null,
+      "figures": [],
+      "answer": "(i) Because +5 oxidation state is more covalent than +3/ high charge to size ratio / high\npolarizing power\n(ii) Because HCl is a mild oxidising agent/ formation of hydrogen gas prevents the formation of\nFeCl3 .\n(iii) Because of resonance in O3 molecule.",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 22,
+      "marks": 3,
+      "text": "frst of\nThe following data were obtained during the order thermal decomposition\nSO2C/2 at a constant volume\nSOrC/r(S) + Cl2G)\nSO2(\nExperiment Time/s-1 Total\nCalculate\nthe rate constant.\n(Given log log\n(i)",
+      "textRaw": "frst of\nThe following data were obtained during the order thermal decomposition\nSO2C/2 at a constant volume\nSOrC/r(S) + Cl2G)\nSO2(\nExperiment Time/s-1 Total\nCalculate\nthe rate constant.\n(Given log log\n(i)",
+      "orText": null,
+      "figures": [],
+      "answer": "SO2 Cl2→ SO2+ Cl2\nAt t = 0s0.4 atm 0 atm0 atm\nAt t = 100s (0.4 – x) atm x atm x atm\nPt = 0.4 – x + x + x\nPt = 0.4 + x",
+      "orAnswer": null,
+      "answerMarks": [],
+      "flags": []
+    },
+    {
+      "number": 23,
+      "marks": 3,
+      "text": "Give two examples of macromolecules that are chosen as drug targets.\n(ii) What are antiseptics ? Give an example.\n(iii) Why is use of aspartame limited to cold foods and soft drinks ?",
+      "textRaw": "Give two examples of macromolecules that are chosen as drug targets.\n(ii) What are antiseptics ? Give an example.\n(iii) Why is use of aspartame limited to cold foods and soft drinks ?",
+      "orText": null,
+      "figures": [],
+      "answer": "(a) carbohydrates, lipids, proteins, enzymes, nucleic acids (any two)\n(b) Antiseptics are the chemical substances which are used to kill or prevent the growth of\nmicrobes. Eg – Dettol / Iodoform / Boric acid/ phenol (or any other correct example)\n(c) Becasuse it is unstable at cooking temperature.",
+      "orAnswer": null,
+      "answerMarks": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 24,
+      "marks": 3,
+      "text": "which vitamin causes night-blindness ?\n(ii) Name the base that is found in nucleotide of RNA only.\n(iii) Glucose on reaction with HI gives n-hexane. What does it suggest about the\nstructure of glucose ?",
+      "textRaw": "which vitamin causes night-blindness ?\n(ii) Name the base that is found in nucleotide of RNA only.\n(iii) Glucose on reaction with HI gives n-hexane. What does it suggest about the\nstructure of glucose ?",
+      "orText": null,
+      "figures": [],
+      "answer": "(a) Vitamin A\n(b) Uracil\n(c) It suggests that six carbon atoms are in straight chain / CHO – (CHOH)4 – CH2OH",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 25,
+      "marks": 3,
+      "text": "After the plastic of to\nban on bags, students one school decided make the people aware\nof harmful plastic\nthe effects of bags on environment and Yamuna River. To make the\njoining\nawareness more impactful, they organized rally by hands with other schools\nand distributed paper bags to vegetable vendors, shopkeepers and departmental\nstores.\nAll\nstudents pledged not to polythene in future to Yamuna River.\nuse bags save\nAfter reading the above passage, answer the following questions\n(i)\nWhat values are shown by the students\n(ii)\nWhat polymers\nare biodegradable ? Give one example.\n(iii)\nIs polythene condensation or addition polymer\na an ?\n56lut 7\nffi\n(a)",
+      "textRaw": "After the plastic of to\nban on bags, students one school decided make the people aware\nof harmful plastic\nthe effects of bags on environment and Yamuna River. To make the\njoining\nawareness more impactful, they organized rally by hands with other schools\nand distributed paper bags to vegetable vendors, shopkeepers and departmental\nstores.\nAll\nstudents pledged not to polythene in future to Yamuna River.\nuse bags save\nAfter reading the above passage, answer the following questions\n(i)\nWhat values are shown by the students\n(ii)\nWhat polymers\nare biodegradable ? Give one example.\n(iii)\nIs polythene condensation or addition polymer\na an ?\n56lut 7\nffi\n(a)",
+      "orText": null,
+      "figures": [],
+      "answer": "(i) Concern towards environment / caring / socially aware / team work. (atleast two values)\n(ii) Polymers which can be degraded by the action of microorganisms. Eg. PHBV , Nylon -2-\nnylon- 6/ any natural polymer\n(iii) Addition polymer.",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0,
+        1.0,
+        3.0
+      ],
+      "flags": [
+        "marks_mismatch"
+      ]
+    },
+    {
+      "number": 26,
+      "marks": 3,
+      "text": "Write the mechanism of the following reaction :\n(b) Write the equation involved in Reimer-Tiemann reaction.",
+      "textRaw": "Write the mechanism of the following reaction :\n(b) Write the equation involved in Reimer-Tiemann reaction.",
+      "orText": null,
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q26_fig1.png",
+          "pageIndex": 7,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "(a) HBr H+ + Br- →",
+      "orAnswer": "( where R = -CH3)\n(b)",
+      "answerMarks": [
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "flags": []
+    },
+    {
+      "number": 27,
+      "marks": 3,
+      "text": "Give the structures of A, B in following\nand C the reactions\n(i)\nCHBr\nNH.\n(ii) → r → ^; CHC/.+NaOH\ncH3cooH- A",
+      "textRaw": "Give the structures of A, B in following\nand C the reactions\n(i)\ncHrBr\nNH.\n(ii) --r --^; CHC/.+NaOH\ncH3cooH- A",
+      "orText": "How will you following\nconvert the\n(i)\nNitrobenzene into aniline\n(ii)\nEthanoic into\nacid methanamine\n(iii)\nAnilineintoN-phenylethanamide\n(Write the chemical involved.)\nequations\n56lllt\n(a)",
+      "figures": [
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q27_fig1.png",
+          "pageIndex": 7,
+          "note": "cropped region (low text layer)"
+        },
+        {
+          "path": "C:\\Users\\sgcha\\Documents\\Cursor Proj\\ChemCompass\\scripts\\pyq-extract\\out\\assets\\pyq-2014-main-delhi-set-1\\pyq-2014-main-delhi-set-1_q27_fig2.png",
+          "pageIndex": 8,
+          "note": "cropped region (low text layer)"
+        }
+      ],
+      "answer": "(i)\nNO2 1 NH2\nSn/HCl\n(ii) CH3 COOH CH3 CONH2 Br2 CH3 NH2\nNH3 +KOH\nO\n(iii) ∥\nNH2\nNH – C- CH3\n(CH3CO)2O\n( Or by any other suitable method.)",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0,
+        4.0
+      ],
+      "flags": [
+        "marks_mismatch"
+      ]
+    },
+    {
+      "number": 28,
+      "marks": 5,
+      "text": "Define the following terms :\n(i) Limiting molar conductivity\n(ii) Fuel cell\nO) Resistance of a conductivity cell filled with 0.1 mol L-r KC/ solution is 100 O.\nIf the resistance of the same cell when filled with 0.02 mol I;l KC, solution is\n520 d2, calculate the conductivity and molar conductivity of 0.02 mol I;1 KCI\nsolution. The conductivity of 0.1 mol L-l KC/ solution is 1.29 x 10-2 (l-1 cm-I.\n(a) State Faraday's frst law of electrolysis. How much charge in terms of Faraday is\nrequired for the reduction of 1 mol of Cu2+ to Cu.\nO) Calculate emf of the following cell at298K\n[Given Ei\"u = +2.71V, I F = 96500 C mol 1]",
+      "textRaw": "Define the following terms :\n(i) Limiting molar conductivity\n(ii) Fuel cell\nO) Resistance of a conductivity cell filled with 0.1 mol L-r KC/ solution is 100 O.\nIf the resistance of the same cell when filled with 0.02 mol I;l KC, solution is\n520 d2, calculate the conductivity and molar conductivity of 0.02 mol I;1 KCI\nsolution. The conductivity of 0.1 mol L-l KC/ solution is 1.29 x 10-2 (l-1 cm-I.\n(a) State Faraday's frst law of electrolysis. How much charge in terms of Faraday is\nrequired for the reduction of 1 mol of Cu2+ to Cu.\nO) Calculate emf of the following cell at298K\n[Given Ei\"u = +2.71V, I F = 96500 C mol 1]",
+      "orText": null,
+      "figures": [],
+      "answer": "(a) The amount of substance deposited at any electrode during electrolysis is directly\nproportional to the quantity of electricity passed through the electrolyte. (aq. Solution or melt)\nCharge = Q = 2F\nE0 0.059 [Mg2+]\n(b) E cell = cell – log\nn [Cu2+]\nE cell = 2.71 - log 0.059 0.10\nE cell = 2.71 – log 10 ½ 0.059\n= 2.71 – 0.0295 = 2.68 V\n(a) (i)\n(ii)\n(b) (i) Because of filled) stable configuration of 3d5(half Mn2+\n(ii) Because in zinc there is no unpaired electron / there is no contribution from the inner d\nelectrons.\n(iii) Because of comparable energies of 7s, 6d and 5f orbitals",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        2.0,
+        1.0,
+        1.0,
+        1.0,
+        5.0,
+        1.0,
+        1.0
+      ],
+      "flags": [
+        "marks_mismatch"
+      ]
+    },
+    {
+      "number": 29,
+      "marks": 5,
+      "text": "How do you prepare :\nIlMnOo from MnO, ?\n(ii) NarCrrO, from NarCrOo ?\n(b) Account for the following :\n(0 Mn2+ is more stable than Fe2+ towards oxidation to +3 state.\n(i0 The enthalpy of atomization is lowest for Zn in 3d series of the transition\nelemenis.\n(iii) Actinoid elements show wide range of oxidation states.\n(i) Name the element of 3d transition series which shows maximum number of\noxidation states. Why does it show so ?\n(i0 which transition metal of 3d series has positive E\"(M2+714) value and why ?\n(iii) Out of Cr3+ and Mn3*, which is a sffonger oxidizing agent and why ?\n(iv) Name a member of the lanthanoid series which is well known to exhibit +2\noxidation state.\n(v) Complete the following equation :",
+      "textRaw": "How do you prepare :\nIlMnOo from MnO, ?\n(ii) NarCrrO, from NarCrOo ?\n(b) Account for the following :\n(0 Mn2+ is more stable than Fe2+ towards oxidation to +3 state.\n(i0 The enthalpy of atomization is lowest for Zn in 3d series of the transition\nelemenis.\n(iii) Actinoid elements show wide range of oxidation states.\n(i) Name the element of 3d transition series which shows maximum number of\noxidation states. Why does it show so ?\n(i0 which transition metal of 3d series has positive E\"(M2+714) value and why ?\n(iii) Out of Cr3+ and Mn3*, which is a sffonger oxidizing agent and why ?\n(iv) Name a member of the lanthanoid series which is well known to exhibit +2\noxidation state.\n(v) Complete the following equarion :",
+      "orText": null,
+      "figures": [],
+      "answer": "(i) Mn , because of presence of 5 unpaired electrons in 3d subshell ½ +\n(ii) Cu , because enthalpy of atomization and ionisation enthalpy is not compensated by enthalpy ½ +\nof hydration.\nMn3+, Mn2+ (3d5)configuration ½ +\n(iii) because is more stable due to its half filled\n(iv) Eu+2(Eu)\n(v)",
+      "orAnswer": null,
+      "answerMarks": [
+        0.5,
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "flags": [
+        "marks_mismatch"
+      ]
+    },
+    {
+      "number": 30,
+      "marks": 5,
+      "text": "Write the products of the following reactions :\n(i) (-)-o\n+H2N_oH H:\n\\,_J\n(ii) 2 C6H'CHO + conc. NaOH->\n(iio cH3cooH Cl2/P\n(b) Give simple chemical tests to distinguish between the following pairs of\ncompounds:\n(i) Benzaldehyde and Benzoic acid\n(ii) Propanal and propanone\n(a) Account for the following :\n(i) CH3CHO is more reactive than CHTCOCH3 towards reaction with HCN.\n(ii) Carboxylic acid is a stronger acid than phenol.\n(b) Write the chemical equations to illustrate the following name reactions :\n(i) Wolff-Kishner reduction\n(ii) Aldol condensation\n(iii) Cannizzaro reaction\n213\n11",
+      "textRaw": "Write the products of the following reactions :\n(i) (-)-o\n+H2N_oH H:\n\\,_J\n(ii) 2 C6H'CHO + conc. NaOH->\n(iio cH3cooH cl2lP\n(b) Give simple chemical tests to distinguish between the following pairs of\ncompounds:\n(i) Benzaldehyde and Benzoic acid\n(ii) Propanal and hopanone\n(a) Account for the following :\n(i) CH3CHO is more reactive than CHTCOCH3 towards reaction with HCN.\n(ii) Carboxylic acid is a stronger acid than phenol.\n(b) Write the chemical equations to illustrate the following name reactions :\n(i) Wolff-Kishnerreduction\n(ii) Aldolcondensation\n(iii) Cannizzaroreaction\n213\n11",
+      "orText": null,
+      "figures": [],
+      "answer": "(a) (i) Because the positve charge on carbonyl carbon of CH3 CHO decreases to a lesser extent\ndue to one electron releasing(+I effect) CH3 group as compared to CH3 COCH3(two electron\nreleasing CH3 group) and hence more reactive.\n(ii) Because carboxylate ion (conjugate base) is more resonance stablized than phenoxide ion.\n(b) (i)",
+      "orAnswer": null,
+      "answerMarks": [
+        1.0,
+        1.0
+      ],
+      "flags": [
+        "marks_mismatch"
+      ]
+    }
+  ],
+  "validation": {
+    "ok": true,
+    "fatal": [],
+    "warnings": [
+      "Q3: missing answer",
+      "Q4: missing answer",
+      "Q19: missing answer"
+    ],
+    "questionFlags": {
+      "2": [
+        "marks_mismatch"
+      ],
+      "3": [
+        "missing_answer"
+      ],
+      "4": [
+        "missing_answer"
+      ],
+      "9": [
+        "marks_mismatch"
+      ],
+      "18": [
+        "marks_mismatch"
+      ],
+      "19": [
+        "missing_answer"
+      ],
+      "20": [
+        "marks_mismatch"
+      ],
+      "25": [
+        "marks_mismatch"
+      ],
+      "27": [
+        "marks_mismatch"
+      ],
+      "28": [
+        "marks_mismatch"
+      ],
+      "29": [
+        "marks_mismatch"
+      ],
+      "30": [
+        "marks_mismatch"
+      ]
+    }
+  }
+}

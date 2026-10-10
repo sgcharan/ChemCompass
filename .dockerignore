@@ -1,0 +1,17 @@
+node_modules
+dist
+.git
+.cursor
+*.md
+!scripts/pyq-llm/README.md
+.env
+.env.*
+!.env.example
+!scripts/pyq-llm/.env.example
+!scripts/pyq-llm/.env.production.example
+__pycache__
+*.pyc
+.pytest_cache
+notebooks
+agent-transcripts
+terminals

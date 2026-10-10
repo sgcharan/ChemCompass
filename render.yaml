@@ -1,0 +1,23 @@
+# Render Blueprint — ChemCompass PYQ API
+# https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: chemcompass-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 8787
+      - key: PYQ_CORPUS_DB
+        value: /app/data/pyq-corpus/corpus.sqlite
+      - key: PYQ_LLM_PROVIDER
+        value: gemini
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-2.0-flash
+      - key: PYQ_CORS_ORIGINS
+        sync: false
